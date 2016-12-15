@@ -1,8 +1,8 @@
 class Gmux < Formula
   desc "Tmux Session Management written in Golang"
   homepage "https://github.com/davinche/gmux"
-  url "https://github.com/davinche/gmux/releases/download/v0.1.1/gmux-0.1.1.tar.gz"
-  sha256 "5c2cad738b357aed438f27559dcad31c79ee6c8f36b7222ac3a8227a5e0572a5"
+  url "https://github.com/davinche/gmux/releases/download/v0.1.2/gmux-0.1.2.tar.gz"
+  sha256 "35a705b8844d7e26860e6fd3cc2f25a5f344fa35509e16b2efbed200f2759044"
 
   bottle :unneeded
 
